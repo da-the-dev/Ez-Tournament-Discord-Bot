@@ -1,0 +1,30 @@
+{
+  "name": "ez-tournament-discord-bot",
+  "version": "0.0.1",
+  "description": "Bot that was designed to automate tournaments easily",
+  "main": "index.js",
+  "scripts": {
+    "test": ".test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/da-the-dev/Ez-Tournament-Discord-Bot.git"
+  },
+  "keywords": [
+    "ez",
+    "tournament",
+    "discord",
+    "bot",
+    "js"
+  ],
+  "author": "da_dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/da-the-dev/Ez-Tournament-Discord-Bot/issues"
+  },
+  "homepage": "https://github.com/da-the-dev/Ez-Tournament-Discord-Bot#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.1.0"
+  }
+}

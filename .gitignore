@@ -2,3 +2,4 @@
 .env
 cfg/servers.json
 cfg/config.json
+.gitignore

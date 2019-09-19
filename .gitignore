@@ -4,4 +4,4 @@ cfg/servers.json
 cfg/config.json
 servers.js
 commands/send.js
-update list.txt
+update_list.txt

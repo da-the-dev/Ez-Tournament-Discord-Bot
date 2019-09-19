@@ -1,3 +1,6 @@
 {
-    "testTranslations": "Check translations"    
+    "testTranslations": "Check translations",
+    "groupNameUnspecified": "group name unspecified",
+    "successfulyCreatedTheGroupNamed": "successfuly create the group named",
+    "alreadyHaveAGroup": "you already have a group! To remove it use `.remove`."
 }

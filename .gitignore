@@ -2,4 +2,6 @@
 .env
 cfg/servers.json
 cfg/config.json
-.gitignore
+servers.js
+commands/send.js
+update list.txt

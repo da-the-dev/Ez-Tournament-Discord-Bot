@@ -1,3 +1,6 @@
 {
-    "testTranslations": "Проверить языки"    
+    "testTranslations": "Проверить языки",
+    "groupNameUnspecified": "не указано название группы!",
+    "successfulyCreatedTheGroupNamed": "успешно создана группа",
+    "alreadyHaveAGroup": "у тебе уже есть группа! Чтобы её удалить, напиши `.remove`."
 }

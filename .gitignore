@@ -5,3 +5,4 @@ cfg/config.json
 servers.js
 commands/send.js
 update_list.txt
+.DS_Store
